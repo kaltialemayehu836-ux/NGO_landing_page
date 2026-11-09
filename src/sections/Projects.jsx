@@ -12,6 +12,7 @@ function Projects() {
     <section id="projects" style={styles.section}>
       <h2 style={styles.heading}>Active & Completed Impact Projects</h2>
       <p style={styles.subheading}>Transparent updates on field initiatives executed worldwide.</p>
+      <p style={styles.subheading}>new project.</p>
       
       <div style={styles.container}>
         {projectsList.map((proj, index) => (
